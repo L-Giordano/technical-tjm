@@ -6,7 +6,6 @@ class Settings:
     RESOURCE_FORLDER = os.path.dirname(os.path.abspath(sys.argv[0])) + "/resource"
     SEARCH_BTN = RESOURCE_FORLDER + "/search.png"
     FOLDER_BTN = RESOURCE_FORLDER + "/tjm.png"
-    ICON_OPTION = RESOURCE_FORLDER + "/columns_text.png"
     SAVE = RESOURCE_FORLDER + "/save_btn.png"
     TIME_SLEEP = 0.5
     INTERVAL = 0.1
