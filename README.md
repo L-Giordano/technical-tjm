@@ -12,11 +12,11 @@ This will create the virtual environment. It will install the project and create
 
 Add the screenshots to the resources folder with the following names:
 
-- search.png ![search](resource/search.png)
-- search.png ![tjm](resource/tjm.png)
-- search.png ![save_btn](resource/save_btn.png)
+- search.png ![search](img/search.png)
+- search.png ![tjm](img/tjm.png)
+- search.png ![save_btn](img/save_btn.png)
 
-![box](resource/box.png)
+![box](img/box.png)
 
 ---
 
