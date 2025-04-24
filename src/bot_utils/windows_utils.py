@@ -1,4 +1,4 @@
-from source.bot_utils.os_utils import OSUtils
+from src.bot_utils.os_utils import OSUtils
 
 
 class WindowsOsUtils(OSUtils):

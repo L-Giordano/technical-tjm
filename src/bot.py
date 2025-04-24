@@ -4,7 +4,7 @@ import pyperclip as pc
 import requests
 
 from config import Settings
-from source.bot_utils.os_utils import OSUtils
+from src.bot_utils.os_utils import OSUtils
 
 
 class Bot(DesktopBot):
